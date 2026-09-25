@@ -1,0 +1,4 @@
+Exact coefficient closure and Newton identities: PASS for n=3,...,36
+Outward-rounded rational arithmetic: PASS on 1,000 deterministic test pairs
+Negative controls: invalid radius and invalid limiting inequality both rejected
+All audit checks: PASS

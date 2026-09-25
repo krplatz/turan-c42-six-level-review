@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "mpmath_digits": 65,
+  "pair_entries": 21,
+  "ratio": "0.688969860824420794067832588083289753519376369936678921593756",
+  "slack": "0.000000139175579205932167411916710246480623630063321078406244091468",
+  "method": "hypergeometric I and transformed Q quadrature; numerical only"
+}
